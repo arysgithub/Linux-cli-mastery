@@ -1,12 +1,16 @@
-*Intro: Why install Linux on your own VM if you don’t have a Linux OS:* 
+**Intro: Why install Linux on your own VM if you don’t have a Linux OS:**
+
 This way you can play around with whatever you like, without risking, damaging or anything going wrong. 
 Think of it as your perfect playground to practice all your skills and learn how to use the Linux terminal. 
 Learn how to learn everything about files with Linux CLI
-Automate tasks using bash scripts – and run them at specific times. NOTE I actually realised I have created bash files before in uni when doing courses and practicals involving LCI and automating tasks.
+Automate tasks using bash scripts – and run them at specific times. 
+
+NOTE I actually realised I have created bash files before in uni when doing courses and practicals involving LCI and automating tasks.
 Learn how to search for new software from repositories and manage it with software managers on the CLI
 Source code and compile into working projects
 
 **How to install VirtualBox, Ubuntu and run a Linux Virtual Machine**
+
 A virtual Box allows you to run virtual machines (virtual computers) inside your computer without affecting your current running machine. 
  - click your associated platform package and download – double-click and fill out the installer wizard. Then your Virtual Box is installed
 Set up your own Linux virtual machine – using Ubuntu
@@ -18,7 +22,7 @@ Click on settings of the VM you just made – for a bit more power, go to settin
 
 
 Now everything is set up and ready to go. 
-Launching Linux for the first time – 
+**Launching Linux for the first time** – 
 Open Virtual Box – Click Start – open our imaginary computer inside our computer, A VIRTUAL MACHINE from that imaginary disk file Ubuntu. Then it will give 2 options: try or install Ubuntu – click install and your language (English) – allow download, and 3rd party install for wifi hardware, MP3 etc. – might say this computer has currently no detected OS – click erase disk and install Ubuntu -write changes yes and click country for time zone, then keyboard layout (English Uk). Will ask name, put your first, computer name VB, username and password. Then you can restart your virtual box and press enter – now you can log in and enter you VM, basically a second app, and everything 
 YOU have linux running computer inside your own computer now
 
